@@ -1,0 +1,29 @@
+{
+  "name": "karma-remotehost-preprocessor",
+  "version": "1.0.0",
+  "description": "A Karma plugin. Replace spec hostname with karma configured hostname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joelgithub/karma-remotehost-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "author": "Joel Andersson <joelanderss@gmail.com>",
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  },
+  "peerDependencies": {
+    "karma": ">=0.11.14"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "contributors": [
+  ]
+}
